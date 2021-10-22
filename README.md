@@ -226,4 +226,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📥 Download
 
-  - [Android](https://drive.google.com/file/d/1XQtsgjBmlclSGkEX-elE0ovzFG7Wrwjq/view?usp=sharing)
+  - [Android](https://drive.google.com/file/d/102fYS5va6PEKlr3HEXdalfSFOgU90Qz7/view?usp=sharing)
