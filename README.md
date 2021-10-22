@@ -124,19 +124,18 @@
   
   - [x] Criar um orçamento;
   - [x] Add Item ao orçamento pendente;
-  - [ ] Listar os orçamentos solicitados pelo cliente;
-  - [ ] Listar os itens do orçamento;
-  - [ ] Pesquisar por protocolodo do orçamento;
-  - [ ] Filtrar por Status;
-  - [ ] Checar PDF do serviço;
-  - [ ] Listar todos os clientes que solicitaram orçamentos;
-  - [ ] Filtrar por status;
-  - [ ] Pesquisar por nome do cliente;
+  - [x] Listar os orçamentos solicitados pelo cliente;
+  - [x] Listar os itens do orçamento;
+  - [x] Pesquisar por protocolodo do orçamento;
+  - [x] Filtrar por Status;
+  - [x] Listar todos os clientes que solicitaram orçamentos;
+  - [x] Pesquisar por nome do cliente;
+  - [x] Excluir Orçamento;
+  - [x] Finalizar Orçamento;
+  - [x] Reabrir Orçamento;
   - [ ] Adicionar Item ao orçamento;
   - [ ] Editar dados do orçamento;
-  - [ ] Excluir Orçamento;
-  - [ ] Finalizar Orçamento;
-  - [ ] Reabrir Orçamento;
+  - [ ] Checar PDF do serviço;
     
 
 ## 🛠 Tecnologias
@@ -226,4 +225,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📥 Download
 
-  - [Android](https://drive.google.com/file/d/102fYS5va6PEKlr3HEXdalfSFOgU90Qz7/view?usp=sharing)
+  - [Android](https://drive.google.com/file/d/1lHPyYb2nVTDgOeqUFc4H6bHKAwK3fnHa/view?usp=sharing)
