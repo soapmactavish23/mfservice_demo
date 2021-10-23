@@ -133,8 +133,8 @@
   - [x] Excluir Orçamento;
   - [x] Finalizar Orçamento;
   - [x] Reabrir Orçamento;
-  - [ ] Adicionar Item ao orçamento;
-  - [ ] Editar dados do orçamento;
+  - [x] Adicionar Item ao orçamento;
+  - [x] Editar dados do orçamento;
   - [ ] Checar PDF do serviço;
     
 
