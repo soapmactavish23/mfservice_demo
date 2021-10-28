@@ -225,4 +225,4 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## 📥 Download
 
-  - [Android](https://drive.google.com/file/d/1CmpgaoDCubNjNodmeBWF3TQWIgLPHZCh/view?usp=sharing)
+  - [Android](https://drive.google.com/file/d/1xzHMtRpLGzZDjmyPhWjkKM8Yio30Nf6a/view?usp=sharing)
